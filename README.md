@@ -10,7 +10,6 @@
 
 #### why do you do this ?
 ##### i don't fucking know
-haha its the only question
 
 #### how do i run the client ?
 ##### either compile it yourself with these command : 1. `npm i (or yarn)` then `npm run dist`
