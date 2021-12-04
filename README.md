@@ -1,32 +1,20 @@
-# idkr
-[![Total downloads](https://img.shields.io/github/downloads/idkr-client/idkr/total)](https://github.com/idkr-client/idkr/releases)
-[![Discord server](https://discord.com/api/guilds/697366856914173994/widget.png)](https://discord.gg/wEZbFFX)
+# VAKC, the worst krunker client to ever exist (based on idkr)
 
-idk, just a Krunker client 
+## its features
+- terrible fps
+- idkr discord rpc
+- terrible settings
+- and more terrible things !
 
-This client aims for:
-- Stable behavior and performance
-- Advanced customizability (settings and userscripts)
-- Constructive to the community (open source; under [AGPL-3.0](https://github.com/idkr-client/idkr/blob/master/LICENSE))
+### now for the Q&A
 
-## Supported Platforms
-| Platform | File Type |
-|-|-|
-| Windows | `exe` |
-| macOS | `dmg` |
-| Linux | `AppImage` |
+#### why do you do this ?
+##### i don't fucking know
+haha its the only question
 
-## Links
-### Discord Server
-https://discord.gg/wEZbFFX
+#### how do i run the client ?
+##### either compile it yourself with these command : 1. `npm i (or yarn)` then `npm run dist`
+(or run it via terminal with this command : `electron .`)
 
-### Wiki
-https://github.com/idkr-client/idkr/wiki
-
-### Download
-[Latest release / changelog](https://github.com/idkr-client/idkr/releases/latest)
-- [Windows installer](https://github.com/idkr-client/idkr/releases/latest/download/idkr-setup-win.exe)
-- [Windows portable](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-win.exe)
-- [macOS portable](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-mac.dmg)
-- [Linux portable (x86_64)](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-linux-x86_64.AppImage)
-- [Linux portable (i836)](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-linux-i386.AppImage)
+## works on :
+any platform (exept phones)
